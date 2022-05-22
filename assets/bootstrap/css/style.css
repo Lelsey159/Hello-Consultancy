@@ -1,0 +1,35 @@
+body {
+    padding-top: 56px;
+}
+
+.jumbotron {
+    background: url("../css/image/images5.jpg") no-repeat center;
+    background-size: 75rem;
+    height: 36rem;
+}
+
+.best-color{
+    color: brown;
+}
+
+.logo-dec {
+    color: orangered ;
+}
+
+.btn-more{
+    color:  blue;
+}
+.btn-primary {
+    background-color: #c60063;
+    border-color: #c60063;
+}
+
+.btn-secondary {
+    background-color: transparent;
+    border-color: #c60063;
+    color: #c60063;
+}
+#contact {
+    background: url("../css/image/color.jpg") no-repeat center ;
+    width: 65%;
+}
